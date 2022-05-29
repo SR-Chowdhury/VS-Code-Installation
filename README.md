@@ -42,6 +42,8 @@ How to setup your VS code editor
 * Settings Sync
 * VSCode Great Icons
 
+## Command Palate
+`Ctl+Shit+p` or `Ctrl+Shift+a`
 
 
 
