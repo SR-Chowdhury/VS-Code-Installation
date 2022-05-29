@@ -10,7 +10,6 @@ How to setup your VS code editor
 
 ## Extension:
 * File Icon: VSCode Great Icons
-* npm: npm, npm intellisense,
 * Beautify
 * jshint
 * ESLint
