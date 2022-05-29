@@ -44,6 +44,7 @@ How to setup your VS code editor
 
 ## Command Palate
 `Ctl+Shit+p` or `Ctrl+Shift+a` will find setting
+
 `Crtl+Shift+n` will open search file
 
 
