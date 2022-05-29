@@ -43,10 +43,9 @@ How to setup your VS code editor
 * VSCode Great Icons
 
 ## Command Palate
-`Ctl+Shit+p` or `Ctrl+Shift+a` will find setting
-
-`Crtl+Shift+n` will open search file
-
+* To find setting `Ctl+Shit+p` or `Ctrl+Shift+a`
+* To search file `Crtl+Shift+n`
+* To find funcion/class in a file `Ctrl+Shift+n+@`
 
 
 
